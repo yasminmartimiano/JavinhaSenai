@@ -1,0 +1,30 @@
+01. Crie um programa que solicite 5 números ao usuário e os armazene em uma lista. Depois, exiba os números digitados.
+02. Solicite 5 números ao usuário, armazene em uma lista e calcule a soma de todos os elementos.
+03. Solicite 6 números ao usuário, armazene em uma lista e calcule a média dos valores.
+04. Crie uma lista com 10 números aleatórios entre 1 e 100 e exiba o maior e o menor número da lista.
+05. Permita que o usuário informe um número e verifique se ele está presente na lista previamente preenchida.
+06. Crie uma lista com 10 números e remova todos os números ímpares dela.
+07. Solicite 8 números ao usuário, armazene em uma lista e exiba os números ordenados em ordem crescente.
+08. Crie uma lista de 5 nomes digitados pelo usuário e depois exiba-os em ordem alfabética.
+09. Crie uma lista com 7 elementos e exiba a lista na ordem inversa da inserção.
+10. Peça ao usuário duas listas de 5 números e crie uma terceira lista que seja a junção das duas.
+11. Preencha uma matriz 3x3 com números fornecidos pelo usuário e exiba-a no formato de uma matriz.
+12. Calcule a soma de todos os elementos de uma matriz 3x3 preenchida pelo usuário.
+13. Encontre o maior elemento dentro de uma matriz 3x3.
+14. Calcule e exiba a soma dos elementos da diagonal principal de uma matriz 3x3.
+15. Calcule e exiba a soma dos elementos da diagonal secundária de uma matriz 3x3.
+16. Peça ao usuário um número e gere uma matriz identidade de tamanho .
+17. Peça ao usuário uma matriz 3x3 e um número escalar. Multiplique todos os elementos da matriz por esse número e exiba a nova matriz.
+18. Calcule a média de todos os elementos de uma matriz 4x4 preenchida aleatoriamente.
+19. Dada uma matriz 3x3 preenchida pelo usuário, exiba sua matriz transposta.
+20. Calcule a soma de cada linha e de cada coluna de uma matriz 4x4.
+21. Pegue uma lista de números e exiba cada elemento utilizando um loop "for each".
+22. Utilize um loop "for each" para somar todos os elementos de uma lista e exibir o resultado.
+23. Multiplique cada número de uma lista por um valor fornecido pelo usuário, utilizando "for each".
+24. Crie uma lista com 10 números e exiba apenas os números pares utilizando "for each".
+25. Pegue uma lista de nomes e utilize um "for each" para exibir uma frase com cada nome, como: "Olá, João!".
+26. Percorra uma matriz 3x3 utilizando "for each" e exiba os elementos.
+27. Use "for each" para percorrer uma matriz 4x4 e calcular a soma de seus elementos.
+28. Percorra uma matriz 3x3 com "for each" e encontre o maior elemento.
+29. Percorra uma matriz 4x4 utilizando "for each" e calcule a soma de cada coluna.
+30. Dada uma lista de números, use "for each" para substituir os valores negativos por zero.
