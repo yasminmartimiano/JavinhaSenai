@@ -12,8 +12,21 @@ public class Media003 {
         System.out.println("Insira a terceira nota: ");
         double not3 = sc.nextDouble();
         double maior, menor;
-        menor = Math.min(not1, Math.min(not2,not3));
-        maior = Math.max(not1, Math.max(not2,not3));
+        if (not1 > not2 && not1 > not3) {
+            maior = not1;
+        } else if (not2 > not1 && not2 > not3) {
+            maior = not2;
+        } else {
+            maior = not3;
+        }
+
+        if (not1 < not2 && not1 < not3) {
+            menor = not1;
+        } else if (not2 < not1 && not2 < not3) {
+            menor = not2;
+        } else {
+            menor = not3;
+        }
         System.out.println("Maior nota: " + maior + ".");
         System.out.println("Menor nota: " + menor + ".");
         sc.close();

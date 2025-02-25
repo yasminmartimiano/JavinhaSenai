@@ -7,6 +7,6 @@ public class Exe29 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira uma idade: ");
         int idade = sc.nextInt();
-        System.out.println((idade ));
+        System.out.println((idade >= 18 && idade <= 60) ? "Adulto" : (idade > 60) ? "Idoso" : "Jovem");
     }
 }
